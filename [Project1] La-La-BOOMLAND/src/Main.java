@@ -9,6 +9,7 @@ public class Main {
 		myFrame.setLocation(400, 150);
 		myFrame.setSize(350, 410);
 	
+		
 		MyPanel myPanel = new MyPanel();
 		myFrame.add(myPanel);
 
@@ -29,7 +30,7 @@ public class Main {
 		+ "Color1 = 1" + "<br>"
 		+ "Color1 = 1" + "<br>"
 		+ "Color1 = 1" + "<br>"
-		+ "Color1 = 1" + "<br>"
+		+ "Color1 = 2" + "<br>"
 		+ "Color1 = 1" + "<br>";
 	
 		JLabel Legend = new JLabel ("<html><div style='text-align: center;'>" + Title + "</div></html>");
